@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project ID="Arma3">
+	<Package ID="ITK">
+		<Container ID="Insurgency">
+			<Key ID="STR_ITK_INSURGENCY_DefuseInterface">
+				<Original>
+					Defuse Interface
+				</Original>
+			</Key>
+			<Key ID="STR_ITK_INSURGENCY_CutWire">
+				<Original>
+					Cut
+				</Original>
+			</Key>
+			<Key ID="STR_ITK_INSURGENCY_Close">
+				<Original>
+					Close
+				</Original>
+			</Key>
+			<Key ID="STR_ITK_INSURGENCY_Inspect">
+				<Original>
+					Inspect
+				</Original>
+			</Key>
+
+			<Key ID="STR_ITK_INSURGENCY_IED_DetonateCode">
+				<Original>
+					IED code: %1
+				</Original>
+			</Key>
+			<Key ID="STR_ITK_INSURGENCY_IED_Place">
+				<Original>
+					&lt;t color=&apos;#00ff00&apos; &gt;Place&lt;/t&gt;
+				</Original>
+			</Key>
+			<Key ID="STR_ITK_INSURGENCY_IED_Cancel">
+				<Original>
+					&lt;t color=&apos;#ff0000&apos; &gt;Cancel&lt;/t&gt;
+				</Original>
+			</Key>
+			<Key ID="STR_ITK_INSURGENCY_IED_AttachTo">
+				<Original>
+					&lt;t color=&apos;#008888&apos; &gt;Attach IED&lt;/t&gt;
+				</Original>
+			</Key>
+			<Key ID="STR_ITK_INSURGENCY_IED_deadman_Release">
+				<Original>
+					Release Deadman Switch
+				</Original>
+			</Key>
+			<Key ID="STR_ITK_INSURGENCY_IED_Clacker_Remaining">
+				<Original>
+					%1 Explosive(s) left on clacker
+				</Original>
+			</Key>
+			<Key ID="STR_ITK_INSURGENCY_SuicideVest_Detonate">
+				<Original>
+					Detonate Vest
+				</Original>
+			</Key>
+			<Key ID="STR_A3_IEDEditor_Title">
+				<Original>
+					IED Creator
+				</Original>
+			</Key>
+			<Key ID="STR_A3_IEDEditor_IED_ComponentListText">
+				<Original>
+					Components
+				</Original>
+			</Key>
+			<Key ID="STR_A3_IEDEditor_CreateIEDButton">
+				<Original>
+					Create
+				</Original>
+			</Key>
+			<Key ID="STR_A3_IEDEditor_CancelIEDCreation">
+				<Original>
+					Cancel
+				</Original>
+			</Key>
+			<Key ID="STR_A3_IEDEditor_IEDCreating">
+				<Original>
+					Creating IED...
+				</Original>
+			</Key>
+			<Key ID="STR_A3_IEDEditor_ComponentTitle">
+				<Original>
+					Component Details
+				</Original>
+			</Key>
+			<Key ID="STR_A3_IEDEditor_ChargeComponentTitle">
+				<Original>
+					Charge
+				</Original>
+			</Key>
+			<Key ID="STR_A3_IEDEditor_TriggerComponentTitle">
+				<Original>
+					Trigger
+				</Original>
+			</Key>
+			<Key ID="STR_A3_IEDEditor_FuseComponentTitle">
+				<Original>
+					Fuse
+				</Original>
+			</Key>
+			<Key ID="STR_A3_IEDEditor_PowerSourceComponentTitle">
+				<Original>
+					Power Source
+				</Original>
+			</Key>
+			<Key ID="STR_A3_IEDEditor_CompletedIEDTitle">
+				<Original>
+					IED
+				</Original>
+			</Key>
+			
+			<Key ID="STR_A3_IEDJammer_TurnOn">
+				<Original>
+					Turn On Thor III
+				</Original>
+			</Key>
+			<Key ID="STR_A3_IEDJammer_TurnOff">
+				<Original>
+					Turn Off Thor III
+				</Original>
+			</Key>
+		</Container>
+	</Package>
+</Project>

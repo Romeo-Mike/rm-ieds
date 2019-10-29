@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project ID="Arma3">
+	<Package ID="ITK">
+		<Container ID="Insurgency">
+			<Key ID="STR_ITK_INSURGENCY_IED_CSM12V_Remote_Mag_Description">
+				<Original>
+					Type: IED&lt;br /&gt;Clacker/Short Fuse/Mortar Charge/12V Battery
+				</Original>
+			</Key>
+			<Key ID="STR_ITK_INSURGENCY_IED_CSM12V_Remote_Mag_DisplayName">
+				<Original>
+					IED (CLACK/S/M/12V)
+				</Original>
+			</Key>
+			<Key ID="STR_ITK_INSURGENCY_IED_CellSM12V_Remote_Mag_Description">
+				<Original>
+					Type: IED&lt;br /&gt;Cellphone/Short Fuse/Mortar Charge/12V Battery
+				</Original>
+			</Key>
+			<Key ID="STR_ITK_INSURGENCY_IED_CellSM12V_Remote_Mag_DisplayName">
+				<Original>
+					IED (CELL/S/M/12V)
+				</Original>
+			</Key>
+			<Key ID="STR_ITK_INSURGENCY_IED_DSM12V_Remote_Mag_Description">
+				<Original>
+					Type: IED&lt;br /&gt;Dead Man's Switch/Short Fuse/Mortar Charge/12V Battery
+				</Original>
+			</Key>
+			<Key ID="STR_ITK_INSURGENCY_IED_DSM12V_Remote_Mag_DisplayName">
+				<Original>
+					IED (DEADMAN/S/M/12V)
+				</Original>
+			</Key>
+			<Key ID="STR_ITK_INSURGENCY_IED_CLM12V_Remote_Mag_Description">
+				<Original>
+					Type: IED&lt;br /&gt;Clacker/Long Fuse/Mortar Charge/12V Battery
+				</Original>
+			</Key>
+			<Key ID="STR_ITK_INSURGENCY_IED_CLM12V_Remote_Mag_DisplayName">
+				<Original>
+					IED (CLACK/L/M/12V)
+				</Original>
+			</Key>
+			<Key ID="STR_ITK_INSURGENCY_IED_CellLM12V_Remote_Mag_Description">
+				<Original>
+					Type: IED&lt;br /&gt;Cellphone/Long Fuse/Mortar Charge/12V Battery
+				</Original>
+			</Key>
+			<Key ID="STR_ITK_INSURGENCY_IED_CellLM12V_Remote_Mag_DisplayName">
+				<Original>
+					IED (CELL/L/M/12V)
+				</Original>
+			</Key>
+			<Key ID="STR_ITK_INSURGENCY_IED_DLM12V_Remote_Mag_Description">
+				<Original>
+					Type: IED&lt;br /&gt;Dead Man's Switch/Long Fuse/Mortar Charge/12V Battery
+				</Original>
+			</Key>
+			<Key ID="STR_ITK_INSURGENCY_IED_DLM12V_Remote_Mag_DisplayName">
+				<Original>
+					IED (DEADMAN/L/M/12V)
+				</Original>
+			</Key>
+			<Key ID="STR_ITK_INSURGENCY_IED_PSM12V_Range_Mag_Description">
+				<Original>
+					Type: IED&lt;br /&gt;Pressure Plate/Short Fuse/Mortar Charge/12V Battery
+				</Original>
+			</Key>
+			<Key ID="STR_ITK_INSURGENCY_IED_PSM12V_Range_Mag_DisplayName">
+				<Original>
+					IED (PRESSURE/S/M/12V)
+				</Original>
+			</Key>
+			<Key ID="STR_ITK_INSURGENCY_IED_PLM12V_Range_Mag_Description">
+				<Original>
+					Type: IED&lt;br /&gt;Pressure Plate/Long Fuse/Mortar Charge/12V Battery
+				</Original>
+			</Key>
+			<Key ID="STR_ITK_INSURGENCY_IED_PLM12V_Range_Mag_DisplayName">
+				<Original>
+					IED (PRESSURE/L/M/12V)
+				</Original>
+			</Key>
+			<Key ID="STR_ITK_INSURGENCY_IED_WSM12V_Wire_Mag_Description">
+				<Original>
+					Type: IED&lt;br /&gt;Wire/Short Fuse/Mortar Charge/12V Battery
+				</Original>
+			</Key>
+			<Key ID="STR_ITK_INSURGENCY_IED_WSM12V_Wire_Mag_DisplayName">
+				<Original>
+					IED (WIRE/S/M/12V)
+				</Original>
+			</Key>
+			<Key ID="STR_ITK_INSURGENCY_IED_WLM12V_Wire_Mag_Description">
+				<Original>
+					Type: IED&lt;br /&gt;Wire/Long Fuse/Mortar Charge/12V Battery
+				</Original>
+			</Key>
+			<Key ID="STR_ITK_INSURGENCY_IED_WLM12V_Wire_Mag_DisplayName">
+				<Original>
+					IED (WIRE/L/M/12V)
+				</Original>
+			</Key>
+			<Key ID="STR_ITK_INSURGENCY_IED_Crate">
+				<Original>
+					IED Crate
+				</Original>
+			</Key>
+			<Key ID="STR_ITK_INSURGENCY_IED_Component_Crate">
+				<Original>
+					IED Components Crate
+				</Original>
+			</Key>
+			<Key ID="STR_ITK_INSURGENCY_IED_Component_Cellphone_name">
+				<Original>
+					Cellphone
+				</Original>
+			</Key>
+			<Key ID="STR_ITK_INSURGENCY_IED_Component_Cellphone_description">
+				<Original>
+					Cellphone used to trigger IEDs
+				</Original>
+			</Key>
+			<Key ID="STR_ITK_INSURGENCY_IED_Component_Cellphone_details">
+				<Original>
+					Name: Cellphone&lt;br /&gt;Type: Trigger
+				</Original>
+			</Key>
+			<Key ID="STR_ITK_INSURGENCY_IED_Component_Clacker_name">
+				<Original>
+					Clacker
+				</Original>
+			</Key>
+			<Key ID="STR_ITK_INSURGENCY_IED_Component_Clacker_description">
+				<Original>
+					Clacker used to trigger explosives
+				</Original>
+			</Key>
+			<Key ID="STR_ITK_INSURGENCY_IED_Component_Clacker_details">
+				<Original>
+					Name: Clacker&lt;br /&gt;Type: Trigger
+				</Original>
+			</Key>
+			<Key ID="STR_ITK_INSURGENCY_IED_Component_Deadman_name">
+				<Original>
+					Dead Man's Switch
+				</Original>
+			</Key>
+			<Key ID="STR_ITK_INSURGENCY_IED_Component_Deadman_description">
+				<Original>
+					Dead Man's Switch used to trigger explosives
+				</Original>
+			</Key>
+			<Key ID="STR_ITK_INSURGENCY_IED_Component_Deadman_details">
+				<Original>
+					Name: Dead Man's Switch&lt;br /&gt;Type: Trigger&lt;br /&gt;Triggers explosives when released or when unit is killed.
+				</Original>
+			</Key>
+			<Key ID="STR_ITK_INSURGENCY_IED_Component_PressurePlate_name">
+				<Original>
+					Pressure Plate
+				</Original>
+			</Key>
+			<Key ID="STR_ITK_INSURGENCY_IED_Component_PressurePlate_description">
+				<Original>
+					Pressure plate used to trigger IEDs
+				</Original>
+			</Key>
+			<Key ID="STR_ITK_INSURGENCY_IED_Component_PressurePlate_details">
+				<Original>
+					Name: Pressure Plate&lt;br /&gt;Type: Trigger&lt;br /&gt;Triggers IEDs when sufficient pressure is placed on it.
+				</Original>
+			</Key>
+			<Key ID="STR_ITK_INSURGENCY_IED_Component_Wire_name">
+				<Original>
+					Wire
+				</Original>
+			</Key>
+			<Key ID="STR_ITK_INSURGENCY_IED_Component_Wire_description">
+				<Original>
+					Wire used to trigger IEDs
+				</Original>
+			</Key>
+			<Key ID="STR_ITK_INSURGENCY_IED_Component_Wire_details">
+				<Original>
+					Name: Wire&lt;br /&gt;Type: Trigger&lt;br /&gt;Triggers IEDs when wire is broken.
+				</Original>
+			</Key>
+			<Key ID="STR_ITK_INSURGENCY_IED_Component_ShortFuse_name">
+				<Original>
+					Short Fuse
+				</Original>
+			</Key>
+			<Key ID="STR_ITK_INSURGENCY_IED_Component_ShortFuse_description">
+				<Original>
+					Short fuse, used in IED creation
+				</Original>
+			</Key>
+			<Key ID="STR_ITK_INSURGENCY_IED_Component_ShortFuse_details">
+				<Original>
+					Name: Short Fuse&lt;br /&gt;Type: Fuse&lt;br /&gt;Time: 1 second
+				</Original>
+			</Key>
+			<Key ID="STR_ITK_INSURGENCY_IED_Component_LongFuse_name">
+				<Original>
+					Long Fuse
+				</Original>
+			</Key>
+			<Key ID="STR_ITK_INSURGENCY_IED_Component_LongFuse_description">
+				<Original>
+					Long Fuse, used in IED creation
+				</Original>
+			</Key>
+			<Key ID="STR_ITK_INSURGENCY_IED_Component_LongFuse_details">
+				<Original>
+					Name: Long Fuse&lt;br /&gt;Type: Fuse&lt;br /&gt;Time: 5 second
+				</Original>
+			</Key>
+			<Key ID="STR_ITK_INSURGENCY_IED_Component_MortarCharge_name">
+				<Original>
+					Mortar Charge
+				</Original>
+			</Key>
+			<Key ID="STR_ITK_INSURGENCY_IED_Component_MortarCharge_description">
+				<Original>
+					Mortar Charge, used in IED creation
+				</Original>
+			</Key>
+			<Key ID="STR_ITK_INSURGENCY_IED_Component_MortarCharge_details">
+				<Original>
+					Name: Mortar Charge&lt;br /&gt;Type: Charge
+				</Original>
+			</Key>
+			<Key ID="STR_ITK_INSURGENCY_IED_Component_12VBattery_name">
+				<Original>
+					12V Battery
+				</Original>
+			</Key>
+			<Key ID="STR_ITK_INSURGENCY_IED_Component_12VBattery_description">
+				<Original>
+					12V Battery, used in IED creation
+				</Original>
+			</Key>
+			<Key ID="STR_ITK_INSURGENCY_IED_Component_12VBattery_details">
+				<Original>
+					Name: 12V Battery&lt;br /&gt;Type: Power Source
+				</Original>
+			</Key>
+			
+			<Key ID="STR_ITK_INSURGENCY_CT_BombDefusalKit_DisplayName">
+				<Original>
+					Bomb Defusal Kit
+				</Original>
+			</Key>
+			<Key ID="STR_ITK_INSURGENCY_CT_BombDefusalKit_Description">
+				<Original>
+					Allows defusing of bombs
+				</Original>
+			</Key>
+		</Container>
+	</Package>
+</Project>
